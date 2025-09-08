@@ -10,6 +10,7 @@ memory-bank/**
 *.json
 *.ainovel
 config.ini
+AGENTS.md
 config copy.ini
 !config.example.ini
 !requirements.txt
